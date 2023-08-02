@@ -3,7 +3,7 @@ title: "Paula PD"
 about:
   id: template-area
   template: jolla
-  image: favicon.jpeg
+  image: favicon.jpg
   links:
     - icon: twitter
       text: twitter
