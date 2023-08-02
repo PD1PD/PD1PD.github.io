@@ -1,5 +1,5 @@
 ---
-title: "Thomas Rose"
+title: "Paula PD"
 about:
   id: template-area
   template: jolla
@@ -10,7 +10,7 @@ about:
       href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/PD1PD
 ---
 
 ## Tasks for this page
@@ -23,20 +23,19 @@ about:
 
 :::{#template-area}
 
-Here goes the information to be included in the template. 
+I am a geologist and mineralogist working with industrial materials. This is a first webpage.
 
 :::
 
 ## Legal Notice
 
 Provider according to § 5 TMG is:  
-Thomas Rose  
-Am Satz 8  
-60437 Frankfurt  
-Germany  
+Paula PD
+Baltzerstrasse 3
+3012 Bern
 
-Phone +49 1522 3176524  
-E-Mail: thomas.rose [at] daad-alumni.de
+Phone +49 123 456 789  
+E-Mail: paula.doerlfer [at] unibe.ch
 
 ## Privacy
 
